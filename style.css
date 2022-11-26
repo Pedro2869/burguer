@@ -178,7 +178,7 @@ body {
         padding: 100px 2%;
         flex-direction: column;
         text-align: center;
-        /* overflow: hidden; */
+        overflow: hidden;
         gap: 5rem;
     }
 
